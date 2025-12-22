@@ -12,5 +12,11 @@ def print_intros():
     # Each student will copy this pattern and add their own block
     # DO NOT delete or change anyone else's block.
 
+    print("Name: Mistretta - Shared Intro")
+    print("Role: Computer Science Test Student")
+    print("Favorite Programming Language: Python")
+    print("GitHub Goal: Help my students learn workplace tools.")
+    print("-" * 40)
+
 if __name__ == "__main__":
     print_intros()
